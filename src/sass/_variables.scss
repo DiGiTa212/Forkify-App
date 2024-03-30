@@ -1,0 +1,7 @@
+//_variables.scss
+
+$disable-user-select: (
+  -ms-user-select: none,
+  -webkit-user-select: none,
+  user-select: none
+);
